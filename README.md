@@ -70,5 +70,3 @@ Commands are **case-insensitive** and blank lines are ignored.
 * You may add tests under `tests/test_smart_fridge.py`.
 
 ---
-
-Would you like me to make the short sample `instructions.txt` file for them too?
